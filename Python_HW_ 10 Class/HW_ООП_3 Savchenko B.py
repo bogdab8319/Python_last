@@ -44,3 +44,4 @@ income= [random.randrange(100,1000) for i in range (25)]
 comsumption = [random.randrange(100,1000) for i in range(25)]
 
 
+# test 2
